@@ -2,8 +2,8 @@
 # Fase 4 - Programacion
 # Sistema Integral de Gestion de Clientes, Servicios y Reservas
 # Empresa: Software FJ
-# Autor: 
-# Grupo:  
+# Autor: ANDERSON LEANDRO MARTINEZ TAUTIVA
+# Grupo:  213023_241
 # Curso: Programacion - UNAD
 # ============================================================
 
